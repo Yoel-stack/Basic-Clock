@@ -1,0 +1,20 @@
+body{
+    background-color: #d1dee7;
+    font-family: "Gupter";    
+}
+
+fieldset{
+    background-color: rgb(118, 165, 199);
+    border: solid black 1px;
+    border-radius: 2px;
+    box-shadow: 4px 5px 10px ;
+}
+
+legend{
+    background-color: #99b8cd;
+    /* border: solid grey 1px; */
+    border-right: 1px solid;
+    border-left: 1px solid;
+    border-radius: 2px;
+    font-weight: 400;
+}
